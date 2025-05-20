@@ -19,7 +19,7 @@ conda env create -f vrdl.yaml
 └── example_img2npz.py  
 ```
 ### Run training
-python train_v8.py
+python train.py
 ### Run test
 python test.py
 ### Create submission file
