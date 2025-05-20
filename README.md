@@ -7,7 +7,7 @@ Name:
 ### Install environment
 conda env create -f vrdl.yaml
 ### Run training
-python train.py
+python train_v8.py
 ### Run test
 python test.py --mode 3
 ### Create submission file
