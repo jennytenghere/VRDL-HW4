@@ -6,11 +6,11 @@ Name:
 ## How to install and use
 ### Install environment
 conda env create -f vrdl.yaml
-### run training
+### Run training
 python train.py
-### run test
+### Run test
 python test.py --mode 3
-### create submission file
+### Create submission file
 python 250428_test_v1.py
 
 ## Performance
